@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
-## Date:2-10-2024
-## vasnthraj.J
+## Date:3-09-2025
+## vasntharaj J
 
 ## AIM:
 To develop a simple webserver to display the configuration details of my laptop.
